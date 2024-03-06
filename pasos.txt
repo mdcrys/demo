@@ -1,0 +1,6 @@
+prepara terreno para el backend con node.js express
+1.- npm init
+2.- dependencias (npm install bcrypt-nodejs body-parser connect-multiparty express moment mongoose jsonwebtoken jwt-simple
+3.- modo produccion (npm install --save-dev nodemon)
+
+middlewares
